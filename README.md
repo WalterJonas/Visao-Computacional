@@ -31,6 +31,8 @@ Na Visão Compuatcional Avançada aprendi sobre:
   -Desenvolvimento de aplicações reais.
 
   
-Link dos Códigos do Treinamento de Visão Computacional: https://colab.research.google.com/drive/1W5c00FNTw7fU8pH4WuRBCILO7SoFXcRo?usp=sharing
+Link dos Códigos do Treinamento de Visão Computacional: 
+Link 1: https://colab.research.google.com/drive/1W5c00FNTw7fU8pH4WuRBCILO7SoFXcRo?usp=sharing
+Link 2: https://colab.research.google.com/drive/1i-3UrBZIX0Ux3J9nZsQBGPpPINyNdvwv?usp=sharing
 
 Link da Publicação no Linkedin sobre o Protótipo que foi Desenvolvido por mim Nesse Projeto: https://www.linkedin.com/posts/walter-jonas-5ab5a0212_python-desenvolvimento-visaetocomputacional-activity-6933698904039305216-ya98?utm_source=share&utm_medium=member_desktop
